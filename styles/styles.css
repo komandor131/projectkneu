@@ -243,7 +243,7 @@ img {
 }
 
 .card:hover {
-  transform: translateY(-8px) scale(1.04);
+  transform: translateY(-8px) scale(1.08);
   box-shadow: 0 32px 64px -30px rgba(37, 99, 235, 0.4);
   text-decoration: none;
 }
@@ -265,7 +265,7 @@ img {
 
 .card:focus-visible {
   outline: none;
-  transform: translateY(-6px) scale(1.03);
+  transform: translateY(-6px) scale(1.06);
   box-shadow: 0 28px 58px -32px rgba(37, 99, 235, 0.38);
 }
 
